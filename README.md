@@ -1,5 +1,5 @@
 # pandas-challenge
-Challenge of pandas
+*Please note that visualization of jupiter book are not shown correcltly on GitHub
 
 Analysis
 
